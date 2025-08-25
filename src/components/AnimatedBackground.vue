@@ -2,7 +2,6 @@
     <div ref="containerRef" class="absolute inset-0 w-full h-full overflow-hidden">
 
       <!-- SVG Filters -->
-       
       <svg class="absolute inset-0 w-0 h-0">
         <defs>
           <filter id="glass-effect" x="-50%" y="-50%" width="200%" height="200%">

@@ -44,7 +44,6 @@
 }
 
 .dark {
-  
   /* Dark mode maintains the same dramatic black background theme */
   --background: #000000;
   --foreground: oklch(1 0 0);
