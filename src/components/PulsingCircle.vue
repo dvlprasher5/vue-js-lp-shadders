@@ -1,7 +1,9 @@
 <template>
   <div class="absolute bottom-8 right-8 z-30">
     <div class="relative w-20 h-20 flex items-center justify-center">
+
       <!-- Pulsing Border Circle -->
+       
       <PulsingBorder
         :colors="['#BEECFF', '#E77EDC', '#FF4C3E', '#00FF88', '#FFD700', '#FF6B35', '#8A2BE2']"
         color-back="#00000000"

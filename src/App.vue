@@ -1,10 +1,12 @@
 <template>
+
   <ShaderBackground>
    <Header />
     <HeroContent />
     <PulsingCircle />
   </ShaderBackground>
   <animated-background />
+  
 </template>
 
 <script setup>
